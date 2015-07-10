@@ -7,11 +7,11 @@ require "themes_on_rails/version"
 Gem::Specification.new do |s|
   s.name        = "themes_on_rails"
   s.version     = ThemesOnRails::VERSION
-  s.authors     = ["Chamnap Chhorn"]
-  s.email       = ["chamnapchhorn@gmail.com"]
-  s.homepage    = "https://github.com/chamnap/themes_on_rails"
-  s.summary     = "Adds multi themes support to your Rails 3/4 application"
-  s.description = "Adds multi themes support to your Rails 3/4 application"
+  s.authors     = ["Chamnap Chhorn", "Grant Hatcher"]
+  s.email       = ["chamnapchhorn@gmail.com", "grant.peter.hatcher@gmail.com"]
+  s.homepage    = "https://github.com/granthatcher/themes_on_rails"
+  s.summary     = "Adds ActionView and ActionMailer theme support to your Ruby on Rails 3/4 Application."
+  s.description = "Adds ActionView and ActionMailer theme support to your Ruby on Rails 3/4 Application."
   s.license     = "MIT"
 
   s.required_ruby_version     = '>= 1.9.3'
